@@ -1,2 +1,3 @@
-# scrutiny-test-basic-review
-Scrutiny integration test repository
+# Test Project
+
+A simple test project for Scrutiny integration testing.
